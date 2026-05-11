@@ -2,7 +2,7 @@
 <h3 align="center">Java Tech Lead · Fintech · Pix · Spring Boot 3 · Java 21</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheeuspc" target="_blank">
+  <a href="[https://www.linkedin.com/in/matheeuspc](https://www.linkedin.com/in/matheuspc/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
